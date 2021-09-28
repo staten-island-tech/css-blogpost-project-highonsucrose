@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+}
+
+p {
+    font-weight: 50;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(49, 109, 115);
+    
+    
+}
+
+h3 {
+    text-align: center;
+    font-family:  Helvetica, sans-serif;
+}
+
+.city {
+    width: 600px;
+    border: 8px solid rgb(203, 255, 238);
+    padding: 10px;
+    margin: 10px;
+    content: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: rgb(203, 255, 238);
+    border-radius: 20px;
+    font-family: 'Raleway', cursive;
+  }
+.header {
+    background-color: rgb(162, 210, 255);
+    height: 60px;
+    border-radius: 20px;
+    font-family: 'Raleway', cursive;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+    
+}
+.blogs {
+    background-color: rgb(189, 224, 254);
+    width: 800px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+

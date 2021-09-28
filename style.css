@@ -2,9 +2,7 @@ body {
     background-color: black;
 }
 
-p {
-    font-weight: 50;
-}
+
 
 h1 {
     text-align: center;
@@ -15,7 +13,7 @@ h1 {
 
 h3 {
     text-align: center;
-    font-family:  Helvetica, sans-serif;
+    font-family: 'Raleway', cursive;
 }
 
 .city {
